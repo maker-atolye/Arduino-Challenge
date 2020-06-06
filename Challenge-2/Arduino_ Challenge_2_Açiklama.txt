@@ -1,0 +1,7 @@
+Buton Challenge
+Açıklama: Butona 1 kez basıldığında LED yanacak ve LED yanık kalacak. Butona ikinci kez basıldığında LED sönecek.
+Kurallar:
+1-) LED ve buton Arduino'nun istenen pinlerine bağlanabilir.
+2-) 1 adet push buton, 1 adet LED, 1 adet 220 ohm direnç, 1 adet 4.7k direnç kullanılacaktır.
+3-) void setup ve void loop içinde Arduino pinleri rakam olarak yazılmayacaktır.
+4-) İnternetten ve başka kaynaklardan yararlanılmayacaktır.
